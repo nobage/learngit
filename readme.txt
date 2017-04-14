@@ -6,3 +6,6 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 
+
+master add some
+
